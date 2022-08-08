@@ -1,0 +1,27 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Challenge 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/va-lopez/11-Express-takingNotes.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/va-lopez/11-Express-takingNotes/issues"
+  },
+  "homepage": "https://github.com/va-lopez/11-Express-takingNotes#readme"
+}
