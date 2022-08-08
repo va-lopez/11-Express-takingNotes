@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "uniquid": "^1.1.4"
   },
   "directories": {
     "lib": "lib"
