@@ -1,6 +1,19 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "0"
+    },
+    {
+      "title": "Test Note Title",
+      "text": "Test text is inside here",
+      "id": "1"
+    },
+    {
+      "title": "Finish Homework Assignments",
+      "text": "Work on the rest of the bootcamp assignments",
+      "id": "2"
     }
-]
+  ]
+}
